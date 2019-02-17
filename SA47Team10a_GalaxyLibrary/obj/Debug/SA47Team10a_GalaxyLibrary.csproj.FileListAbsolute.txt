@@ -1,0 +1,592 @@
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csprojAssemblyReference.cache
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmLogin.resources
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.cache
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmWelcome.resources
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmTemplate.resources
+C:\Users\ngyanbo\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmSearch.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csprojAssemblyReference.cache
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmBookAdd.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmSearch.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmWelcome.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmTemplate.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmLogin.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.cache
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CopyComplete
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmBookModify.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmBorrowingHistory.resources
+D:\Demo\GalaxyLibrary\Final_Template\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmBookSearchForStaff.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojAssemblyReference.cache
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookSearchForStaff.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBorrowingHistory.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmSearchCustomer.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.cache
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\WindowsFormsApp3.exe
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\WindowsFormsApp3.pdb
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\WindowsFormsApp3.exe.config
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\WindowsFormsApp3.exe
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\WindowsFormsApp3.pdb
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CopyComplete
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5SearchForMember.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Demo\GalaxyLibrary\Final_Template\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\WindowsFormsApp3.exe
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\WindowsFormsApp3.exe.config
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookSearchForStaff.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5SearchForMember.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmSearchCustomer.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\WindowsFormsApp3.exe
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\WindowsFormsApp3.pdb
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\5. SAP\ESNET\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\WindowsFormsApp3.pdb
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.cache
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CopyComplete
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojAssemblyReference.cache
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookSearchForStaff.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5SearchForMember.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmSearchCustomer.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 745pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookSearchForStaff.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5SearchForMember.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmSearchCustomer.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 10pm - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojAssemblyReference.cache
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.cache
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Demo\GalaxyLibrary\Galaxy 11.30am 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Galaxy 12PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm11BookSearchForStaff.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5BookSearchForMember.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm13MemberSearch.resources
+D:\Galaxy 2.30PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm11BookSearchForStaff.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm13MemberSearch.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5BookSearchForMember.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Galaxy 4PM 29sep18 - SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkatCustomer.resources
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm11BookSearchForStaff.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm13MemberSearch.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5BookSearchForMember.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkatCustomer.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm11BookSearchForStaff.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm13MemberSearch.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5BookSearchForMember.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkatCustomer.resources
+D:\Demo\GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojResolveAssemblyReference.cache
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm11BookSearchForStaff.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm13MemberSearch.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5BookSearchForMember.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkatCustomer.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.Cache
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+D:\5. SAP\ESNET\Assignment\SA47Team10a_GalaxyLibrary\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe.config
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.exe
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\SA47Team10a_GalaxyLibrary.pdb
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\FlashControlV71.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm11BookSearchForStaff.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm13MemberSearch.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm15Report.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm16Viewer1.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm17Viewer2.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm18Viewer3.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm4BooksDetailForMember.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm5BookSearchForMember.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm6BorrowBook.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm7Return.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm8BookInformation.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookAdd.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBookModify.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkat.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm3ChangePassword.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm2Login.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frm1Welcome.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmBossVenkatCustomer.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmCustomerInformation.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplate.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.frmTemplateSearch.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.Properties.Resources.resources
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.csproj.CopyComplete
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+\\Mac\Home\Desktop\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
+\\Mac\Home\Desktop\School\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.exe
+\\Mac\Home\Desktop\School\SA47Team10a_GalaxyLibrary\obj\Debug\SA47Team10a_GalaxyLibrary.pdb
